@@ -1,0 +1,3 @@
+/mnt/c/Users/shiri/OneDrive/שולחן העבודה/OS-HW1/cmake-build-debug/CMakeFiles/skeleton_smash.dir
+/mnt/c/Users/shiri/OneDrive/שולחן העבודה/OS-HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/shiri/OneDrive/שולחן העבודה/OS-HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
